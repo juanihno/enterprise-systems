@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITMediaLibrary", "..\..\..\Downloads\Asspart2\User Admin pt2z\AITMediaLibrary\AITMediaLibrary.csproj", "{6E2F799F-0E9F-42FA-B90E-5D40D224ABDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2F799F-0E9F-42FA-B90E-5D40D224ABDC}.Debug|x86.ActiveCfg = Debug|x86
+		{6E2F799F-0E9F-42FA-B90E-5D40D224ABDC}.Debug|x86.Build.0 = Debug|x86
+		{6E2F799F-0E9F-42FA-B90E-5D40D224ABDC}.Release|x86.ActiveCfg = Release|x86
+		{6E2F799F-0E9F-42FA-B90E-5D40D224ABDC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F261C3C-8C17-4753-8F2D-B5444647BD9B}
+	EndGlobalSection
+EndGlobal
